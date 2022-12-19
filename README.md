@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-<!--
-**Uriel-000/Uriel-000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Im am a student at Promineo Tech
 
-Here are some ideas to get you started:
+- 🌱 Im currently learning the basics of html, javascript, and css.
+
+- 📫 How to reach me: urielmartinez061@outlook.com
+
+- ⚡ Fun fact:
+
  
  
  
