@@ -6,4 +6,4 @@
 
 - 📫 How to reach me: urielmartinez061@outlook.com
 
-- ⚡ Fun fact: I like to draw.
+- ⚡ Fun fact: IN PROGRESS.
